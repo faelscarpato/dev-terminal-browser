@@ -1,0 +1,11 @@
+{
+  "name": "DevTerminal — Node.js Browser IDE",
+  "short_name": "DevTerminal",
+  "description": "Ambiente de desenvolvimento Node.js executado no navegador.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0e12",
+  "theme_color": "#111217",
+  "orientation": "landscape",
+  "icons": []
+}
