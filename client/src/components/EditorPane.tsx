@@ -28,7 +28,8 @@ export function EditorPane() {
       {activeFile && activeFile.kind === "file" ? (
         <div className="min-h-0 flex-1">
           <Editor
-            height="100%"
+height="100%"
+              width="100%"
             language={activeFile.language ?? "plaintext"}
             value={activeFile.content ?? ""}
             theme="vs-dark"
