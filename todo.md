@@ -20,3 +20,4 @@
 - [x] Reaplicar a implementação visual e funcional da IDE após a restauração do sandbox.
 
 - [x] Corrigir erro de carregamento `Uncaught SyntaxError: Unexpected token '<'` na rota principal `/?from_webdev=1` e validar o build/preview.
+- [ ] Corrigir o Monaco Editor que está renderizando somente uma linha visível, garantindo altura flexível e resize correto.
