@@ -19,4 +19,4 @@
 
 - [x] Reaplicar a implementação visual e funcional da IDE após a restauração do sandbox.
 
-- [ ] Corrigir erro de carregamento `Uncaught SyntaxError: Unexpected token '<'` na rota principal `/?from_webdev=1` e validar o build/preview.
+- [x] Corrigir erro de carregamento `Uncaught SyntaxError: Unexpected token '<'` na rota principal `/?from_webdev=1` e validar o build/preview.
